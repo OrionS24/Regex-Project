@@ -1,0 +1,13 @@
+Contact us at Michaeljordan@gmail.com or support@yahoo.com
+
+Phone numbers:
++25078817889099
++1 (623) 456-7890
+
+Credit cards:
+1234-5678-9012-3456
+4111111111111111
+
+HTML:
+<h1>Hello Wonderful people</h1>
+<p>This is a paragraph</p>

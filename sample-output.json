@@ -1,0 +1,20 @@
+{
+    "emails": [
+        "Michaeljordan@gmail.com",
+        "support@yahoo.com"
+    ],
+    "phone_numbers": [
+        "+25078817889099",
+        "(623) 456-7890"
+    ],
+    "credit_cards": [
+        "1234-5678-9012-3456",
+        "4111111111111111"
+    ],
+    "html_tags": [
+        "<h1>",
+        "</h1>",
+        "<p>",
+        "</p>"
+    ]
+}
